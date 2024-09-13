@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditi Goyal</h1>
 <h3 align="center">Passionate Developer & Code Enthusiast</h3>
-<img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="" width="400" align="right> 
+<img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="" width="400" align="right>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-goyal-58&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-goyal-58" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi-goyal-58" alt="aditi-goyal-58" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-goyal-58&show_icons=true&locale=en" alt="aditi-goyal-58" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-goyal-58&" alt="aditi-goyal-58" /></p>
-
